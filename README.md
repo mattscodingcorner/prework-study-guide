@@ -1,6 +1,8 @@
 # <Prework Study Guide Page>
 
-## This is my Prework Study Guide for the coding Bootcamp. It covers HTML, CSS, Git, and JavaScript. I built this project to help my study for the bootcamp. 
+## Description
+
+This is my Prework Study Guide for the coding Bootcamp. It covers HTML, CSS, Git, and JavaScript. I built this project to help my study for the bootcamp. 
 
 ## Installation
 
